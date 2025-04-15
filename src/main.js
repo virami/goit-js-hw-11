@@ -8,6 +8,7 @@ import {
 
 import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
+import iconError from "./img/error.svg"
 
 const form = document.querySelector(".form");
 
